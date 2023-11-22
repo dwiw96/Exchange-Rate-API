@@ -1,0 +1,25 @@
+@startuml
+entity currencies {
+id: bigserial <<PK>>
+--
+currency_code: varchar(3)
+--
+currency_name: text
+}
+
+entity exchange_rates {
+id: bigserial <<PK>>
+--
+currency_code_from: varchar(3) <<FK>>
+--
+currency_code_to: varchar(3)
+--
+buy: double precision
+--
+sell: double precision
+--
+date: date
+}
+
+currencies ||--|{ exchange_rates
+@enduml
