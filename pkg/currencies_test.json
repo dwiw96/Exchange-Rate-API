@@ -1,0 +1,14 @@
+[
+	{
+		"currency_code": "IDR",
+		"currency_name": "INDONESIAN RUPIAH"
+	},
+	{
+		"currency_code": "CDN",
+		"currency_name": "CANADIAN DOLLAR"
+	},
+	{
+		"currency_code": "DKK",
+		"currency_name": "DANISH KRONE"
+	}
+]

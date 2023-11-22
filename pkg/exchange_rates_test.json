@@ -1,0 +1,20 @@
+[
+	{
+		"currency_code_from": "IDR",
+		"currency_code_to": "USD",
+		"sell": 15000,
+		"buy": 14500
+	},
+	{
+		"currency_code_from": "AUD",
+		"currency_code_to": "SGD",
+		"sell": 11500,
+		"buy": 11000
+	},
+	{
+		"currency_code_from": "JPY",
+		"currency_code_to": "EUR",
+		"sell": 17500,
+		"buy": 17000
+	}
+]
