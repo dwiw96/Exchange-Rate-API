@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "dwiw22/project-Study/pcbook-grpc/pb";
+
+// library for timestamp
+import "google/protobuf/timestamp.proto";
+
+message ExchangeRate {
+    uint64 id = 1;
+    string currency_code_from = 2;
+    string currency_name_to = 3;
+    double buy = 4;
+    double sell = 5;
+    google.protobuf.Timestamp validate_date = 6;
+}

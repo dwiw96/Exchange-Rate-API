@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "dwiw22/project-Study/pcbook-grpc/pb";
+
+message Currencies {
+    uint64 id = 1;
+    string currency_code = 2;
+    string currency_name = 3;
+}
