@@ -11,7 +11,7 @@ import (
 func checkContext(ctx context.Context) error {
 	if ctx.Err() == context.Canceled {
 		log.Println("request is canceled")
-		return status.Error(codes.Canceled, "request is exceeded")
+		return status.Error(codes.Canceled, "request is canceled")
 	}
 
 	if ctx.Err() == context.DeadlineExceeded {
