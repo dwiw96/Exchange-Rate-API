@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "dwiw22/project-Study/pcbook-grpc/pb";
+
+// library for timestamp
+import "google/protobuf/timestamp.proto";
+
+message GetRateRequest {
+    string from_currency = 1;
+    string to_currency = 2;
+}
+
+message GetRateResponse {
+    uint64 id = 1;
+    string currency_code_from = 2;
+    string currency_code_to = 3;
+    double buy = 4;
+    double sell = 5;
+    google.protobuf.Timestamp validate_date = 6;
+}
+
+message GetBuyResponse {
+    double buy = 1;
+}
+
+message GetSellResponse {
+    double sell = 1;
+}
+
+service ExchangeRateAPI {
+    rpc GetRate(GetRateRequest) returns (GetRateResponse) {}
+    rpc GetBuy(GetRateRequest) returns (GetBuyResponse) {}
+    rpc GetSell(GetRateRequest) returns (GetSellResponse) {}
+}

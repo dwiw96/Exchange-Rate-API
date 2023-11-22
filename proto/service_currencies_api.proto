@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "dwiw22/project-Study/pcbook-grpc/pb";
+
+// library for timestamp
+import "currencies.proto";
+import "google/protobuf/empty.proto";
+
+message ListAllCurrenciesResponse {
+    repeated Currencies currencies = 1;
+}
+
+message GetCurrencyRequest {
+    string currency = 1;
+}
+
+message GetCurrencyResponse {
+    Currencies currency = 1;
+}
+
+service CurrenciesAPI {
+    rpc ListAllCurrencies(google.protobuf.Empty) returns (ListAllCurrenciesResponse) {}
+    rpc GetCurrency(GetCurrencyRequest) returns (GetCurrencyResponse) {}
+}
