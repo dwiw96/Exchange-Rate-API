@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"currency_code_from": "IDR",
+		"currency_code_to": "AUD",
+		"buy": 10090.740000000002,
+		"sell": 10198.359999999999,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 2,
+		"currency_code_from": "IDR",
+		"currency_code_to": "BND",
+		"buy": 11491.82,
+		"sell": 11614.27,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 3,
+		"currency_code_from": "IDR",
+		"currency_code_to": "CAD",
+		"buy": 11191.210000000001,
+		"sell": 11304.51,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 4,
+		"currency_code_from": "IDR",
+		"currency_code_to": "CHF",
+		"buy": 17378.16,
+		"sell": 17564.74,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 5,
+		"currency_code_from": "IDR",
+		"currency_code_to": "CNH",
+		"buy": 2152.3300000000004,
+		"sell": 2174.08,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 6,
+		"currency_code_from": "IDR",
+		"currency_code_to": "CNY",
+		"buy": 2153.06,
+		"sell": 2174.82,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 7,
+		"currency_code_from": "IDR",
+		"currency_code_to": "DKK",
+		"buy": 2256.59,
+		"sell": 2279.4100000000003,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 8,
+		"currency_code_from": "IDR",
+		"currency_code_to": "EUR",
+		"buy": 16822.52,
+		"sell": 16997.79,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 9,
+		"currency_code_from": "IDR",
+		"currency_code_to": "GBP",
+		"buy": 19227.71,
+		"sell": 19427.16,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 10,
+		"currency_code_from": "IDR",
+		"currency_code_to": "HKD",
+		"buy": 1970.9,
+		"sell": 1990.73,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 11,
+		"currency_code_from": "IDR",
+		"currency_code_to": "JPY",
+		"buy": 10407.82,
+		"sell": 10513.130000000001,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 12,
+		"currency_code_from": "IDR",
+		"currency_code_to": "KRW",
+		"buy": 11.92,
+		"sell": 12.04,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 13,
+		"currency_code_from": "IDR",
+		"currency_code_to": "KWD",
+		"buy": 49825.86,
+		"sell": 50385.46,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 14,
+		"currency_code_from": "IDR",
+		"currency_code_to": "LAK",
+		"buy": 0.74,
+		"sell": 0.75,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 15,
+		"currency_code_from": "IDR",
+		"currency_code_to": "MYR",
+		"buy": 3300.13,
+		"sell": 3336.17,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 16,
+		"currency_code_from": "IDR",
+		"currency_code_to": "NOK",
+		"buy": 1440.71,
+		"sell": 1455.53,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 17,
+		"currency_code_from": "IDR",
+		"currency_code_to": "NZD",
+		"buy": 9313.59,
+		"sell": 9413.4,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 18,
+		"currency_code_from": "IDR",
+		"currency_code_to": "PGK",
+		"buy": 3985.61,
+		"sell": 4304.91,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 19,
+		"currency_code_from": "IDR",
+		"currency_code_to": "PHP",
+		"buy": 277.28999999999996,
+		"sell": 280.12,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 20,
+		"currency_code_from": "IDR",
+		"currency_code_to": "SAR",
+		"buy": 4094.7,
+		"sell": 4136.41,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 21,
+		"currency_code_from": "IDR",
+		"currency_code_to": "SEK",
+		"buy": 1474.82,
+		"sell": 1489.96,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 22,
+		"currency_code_from": "IDR",
+		"currency_code_to": "SGD",
+		"buy": 11491.82,
+		"sell": 11614.27,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 23,
+		"currency_code_from": "IDR",
+		"currency_code_to": "THB",
+		"buy": 436.7,
+		"sell": 441.46999999999997,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 24,
+		"currency_code_from": "IDR",
+		"currency_code_to": "USD",
+		"buy": 15358.82,
+		"sell": 15513.18,
+		"validate_date": "0001-01-01T00:00:00Z"
+	},
+	{
+		"id": 25,
+		"currency_code_from": "IDR",
+		"currency_code_to": "VND",
+		"buy": 0.64,
+		"sell": 0.64,
+		"validate_date": "0001-01-01T00:00:00Z"
+	}
+]

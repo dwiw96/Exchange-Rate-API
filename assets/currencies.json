@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"currency_code": "IDR",
+		"currency_name": "INDONESIAN RUPIAH"
+	},
+	{
+		"id": 2,
+		"currency_code": "AUD",
+		"currency_name": "AUSTRALIAN DOLLAR"
+	},
+	{
+		"id": 3,
+		"currency_code": "BND",
+		"currency_name": "BRUNEI DOLLAR"
+	},
+	{
+		"id": 4,
+		"currency_code": "CAD",
+		"currency_name": "CANADIAN DOLLAR"
+	},
+	{
+		"id": 5,
+		"currency_code": "CHF",
+		"currency_name": "SWISS FRANC"
+	},
+	{
+		"id": 6,
+		"currency_code": "CNH",
+		"currency_name": "CHINA YUAN"
+	},
+	{
+		"id": 7,
+		"currency_code": "CNY",
+		"currency_name": "CHINA YUAN"
+	},
+	{
+		"id": 8,
+		"currency_code": "DKK",
+		"currency_name": "DANISH KRONE"
+	},
+	{
+		"id": 9,
+		"currency_code": "EUR",
+		"currency_name": "EURO"
+	},
+	{
+		"id": 10,
+		"currency_code": "GBP",
+		"currency_name": "BRITISH POUND"
+	},
+	{
+		"id": 11,
+		"currency_code": "HKD",
+		"currency_name": "HONGKONG DOLLAR"
+	},
+	{
+		"id": 12,
+		"currency_code": "JPY",
+		"currency_name": "JAPANESE YEN"
+	},
+	{
+		"id": 13,
+		"currency_code": "KRW",
+		"currency_name": "KOREAN WON"
+	},
+	{
+		"id": 14,
+		"currency_code": "KWD",
+		"currency_name": "KUWAITI DINAR"
+	},
+	{
+		"id": 15,
+		"currency_code": "LAK",
+		"currency_name": "LAOTIAN KIP"
+	},
+	{
+		"id": 16,
+		"currency_code": "MYR",
+		"currency_name": "MALAYSIAN RINGGIT"
+	},
+	{
+		"id": 17,
+		"currency_code": "NOK",
+		"currency_name": "NORWEGIAN KRONE"
+	},
+	{
+		"id": 18,
+		"currency_code": "NZD",
+		"currency_name": "NEW ZEALAND DOLLAR"
+	},
+	{
+		"id": 19,
+		"currency_code": "PGK",
+		"currency_name": "PAPUA N.G. KINA"
+	},
+	{
+		"id": 20,
+		"currency_code": "PHP",
+		"currency_name": "PHILIPPINES PESO"
+	},
+	{
+		"id": 21,
+		"currency_code": "SAR",
+		"currency_name": "SAUDI ARABIAN RIYAL"
+	},
+	{
+		"id": 22,
+		"currency_code": "SEK",
+		"currency_name": "SWEDISH KRONA"
+	},
+	{
+		"id": 23,
+		"currency_code": "SGD",
+		"currency_name": "SINGAPORE DOLLAR"
+	},
+	{
+		"id": 24,
+		"currency_code": "THB",
+		"currency_name": "THAI BAHT"
+	},
+	{
+		"id": 25,
+		"currency_code": "USD",
+		"currency_name": "US DOLLAR"
+	},
+	{
+		"id": 26,
+		"currency_code": "VND",
+		"currency_name": "VIETNAMESE DONG"
+	}
+]
