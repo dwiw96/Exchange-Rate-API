@@ -1,0 +1,127 @@
+[
+	{
+		"currency": "AUD  ",
+		"sell": 10168.98,
+		"buy": 10064.7
+	},
+	{
+		"currency": "BND  ",
+		"sell": 11566.69,
+		"buy": 11447.359999999999
+	},
+	{
+		"currency": "CAD  ",
+		"sell": 11450.58,
+		"buy": 11333.32
+	},
+	{
+		"currency": "CHF  ",
+		"sell": 17404.780000000002,
+		"buy": 17223.920000000002
+	},
+	{
+		"currency": "CNH  ",
+		"sell": 2144.4,
+		"buy": 2122.92
+	},
+	{
+		"currency": "CNY  ",
+		"sell": 2146.34,
+		"buy": 2124.9300000000003
+	},
+	{
+		"currency": "DKK  ",
+		"sell": 2247.79,
+		"buy": 2225.2
+	},
+	{
+		"currency": "EUR  ",
+		"sell": 16777.95,
+		"buy": 16604.82
+	},
+	{
+		"currency": "GBP  ",
+		"sell": 19348.72,
+		"buy": 19150
+	},
+	{
+		"currency": "HKD  ",
+		"sell": 1998.1499999999999,
+		"buy": 1978.25
+	},
+	{
+		"currency": "JPY  ",
+		"sell": 10440.77,
+		"buy": 10334.81
+	},
+	{
+		"currency": "KRW  ",
+		"sell": 12.04,
+		"buy": 11.92
+	},
+	{
+		"currency": "KWD  ",
+		"sell": 50667.07,
+		"buy": 50065.53
+	},
+	{
+		"currency": "LAK  ",
+		"sell": 0.76,
+		"buy": 0.74
+	},
+	{
+		"currency": "MYR  ",
+		"sell": 3360.8100000000004,
+		"buy": 3323.08
+	},
+	{
+		"currency": "NOK  ",
+		"sell": 1416.03,
+		"buy": 1401.56
+	},
+	{
+		"currency": "NZD  ",
+		"sell": 9361.02,
+		"buy": 9261.69
+	},
+	{
+		"currency": "PGK  ",
+		"sell": 4211.68,
+		"buy": 4053.73
+	},
+	{
+		"currency": "PHP  ",
+		"sell": 279.57,
+		"buy": 276.69
+	},
+	{
+		"currency": "SAR  ",
+		"sell": 4165.84,
+		"buy": 4124.17
+	},
+	{
+		"currency": "SEK  ",
+		"sell": 1435.99,
+		"buy": 1421.31
+	},
+	{
+		"currency": "SGD  ",
+		"sell": 11566.69,
+		"buy": 11447.359999999999
+	},
+	{
+		"currency": "THB  ",
+		"sell": 441.09,
+		"buy": 436.45
+	},
+	{
+		"currency": "USD  ",
+		"sell": 15627.75,
+		"buy": 15472.25
+	},
+	{
+		"currency": "VND  ",
+		"sell": 0.64,
+		"buy": 0.63
+	}
+]
